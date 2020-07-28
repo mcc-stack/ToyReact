@@ -1,4 +1,0 @@
-# ToyReact
-
-## Just a Demo
-
